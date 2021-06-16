@@ -283,7 +283,7 @@ function menu() {
 		"NBC144.jpg", // 226 - storytelling
 		"NBC145.jpg", // 227 - storytelling
 		"NBC121.jpg", // 228 - storytelling
-		"NBC122,jpg", // 229 - storytelling
+		"NBC122.jpg", // 229 - storytelling
 		"NBC123.jpg", // 230 - storytelling
 		"NBC187.jpg", // 231 - storytelling
 		"NBC110.jpg", // 232 - tem decisao
